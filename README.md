@@ -1,5 +1,12 @@
 # conditional-branching-engine
 
+Production-grade project scaffold focused on reliability, maintainability, and fast onboarding.
+
+[![CI](https://img.shields.io/github/actions/workflow/status/yksanjo/conditional-branching-engine/ci.yml?branch=main&label=ci)](https://github.com/yksanjo/conditional-branching-engine/actions)
+![License](https://img.shields.io/github/license/yksanjo/conditional-branching-engine)
+![Last Commit](https://img.shields.io/github/last-commit/yksanjo/conditional-branching-engine)
+![Repo Size](https://img.shields.io/github/repo-size/yksanjo/conditional-branching-engine)
+
 ## Detailed Description
 
 conditional-branching-engine is maintained as an industry-grade software project with production-ready engineering practices.  
